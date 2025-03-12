@@ -1,14 +1,32 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository is a toolbox for Azure AI Application building.
 
-As the maintainer of this project, please make a few updates:
+| Repository | Description | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) |
+| ------------- |:-- | :- | 
+| [az-ai-kickstarter](https://github.com/Azure-Samples/az-ai-kickstarter) | An opinionated set of best practices and patterns to bootstrap your Multi Agent application in minutes | ✅ 
+| [az-ai-generator](https://github.com/Azure/az-ai-generator) | Opinionated Multi Agentic Application Generator. Build and deploy your application in minutes | ✅ 
+| [az-ai-devcontainer](https://github.com/AZure-Samples/az-ai-devcontainer) | Prebuilt AI Developer DevContainer/Codespace Environment including Python, Jupyter, Infra as Code deployment, AI Foundry, Testing, Evaluation, etc. | ✅ 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+> [!NOTE]
+> More to come! Star and watch the repository to get notified!
+
+## Content Owners
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dbroeglin" title="Dominique Broeglin's GitHub Profile">
+        <img src="https://media.licdn.com/dms/image/v2/C5603AQGhFk0qXJqkdA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1584627720362?e=1744243200&v=beta&t=n7rKzCr9_du07X1jzr8seAVloBK3X8p2sHxX67e5GpI" width="100px;" alt="Dominique Broeglin"/><br />
+        <sub><strong>Dominique BROEGLIN</strong></sub><br />📢</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/evmin" title="Evgeny Minkevich's GitHub Profile">
+        <img src="https://media.licdn.com/dms/image/v2/C5103AQF9FRSZaP7Ucw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1557222239758?e=1747267200&v=beta&t=RJ9-DDQoj6xBGjzpn8Jto4YRJ_zGtSTk2ua6ny3vTnM" width="100px;" alt="Francesco Sodano"/><br />
+        <sub><strong>Evgeny MINKEVICH</strong></sub><br />📢</a>
+    </td>
+  </tr>
+</table>
 
 ## Contributing
 

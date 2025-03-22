@@ -2,11 +2,13 @@
 
 This repository is a toolbox for Azure AI Application building.
 
-| Repository | Description | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) |
-| ------------- |:-- | :- | 
-| [az-ai-kickstarter](https://github.com/Azure-Samples/az-ai-kickstarter) | An opinionated set of best practices and patterns to bootstrap your Multi Agent application in minutes | ✅ 
-| [az-ai-generator](https://github.com/Azure/az-ai-generator) | Opinionated Multi Agentic Application Generator. Build and deploy your application in minutes | ✅ 
-| [az-ai-devcontainer](https://github.com/AZure-Samples/az-ai-devcontainer) | Prebuilt AI Developer DevContainer/Codespace Environment including Python, Jupyter, Infra as Code deployment, AI Foundry, Testing, Evaluation, etc. | ✅ 
+| Repository | Description | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | Status |
+| ------------- |:-- | :- | :- |
+| [az-ai-kickstarter](https://github.com/Azure-Samples/az-ai-kickstarter) | An opinionated set of best practices and patterns to bootstrap your Multi Agent application in minutes | ✅ | Public |
+| [az-ai-generator](https://github.com/Azure/az-ai-generator) | Opinionated Multi Agentic Application Generator. Build and deploy your application in minutes | ✅ | Public |
+| [az-ai-devcontainer](https://github.com/Azure-Samples/az-ai-devcontainer) | Prebuilt AI Developer DevContainer/Codespace Environment including Python, Jupyter, Infra as Code deployment, AI Foundry, Testing, Evaluation, etc. | ✅ | Public |
+| [az-ai-cli](https://github.com/Azure/az-ai-cli) | AZ AI CLI for building Azure AI Apps | | Private Preview |
+
 
 > [!NOTE]
 > More to come! Star and watch the repository to get notified!

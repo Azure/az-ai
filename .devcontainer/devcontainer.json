@@ -1,0 +1,22 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/python:3.12",
+    "features": {
+      "ghcr.io/devcontainers/features/azure-cli:1": {},
+      "ghcr.io/azure/azure-dev/azd:0": {},
+      "ghcr.io/devcontainers/features/github-cli:1": {},
+      "ghcr.io/devcontainers/features/node:1": {},
+      "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "GitHub.copilot-chat",
+            "GitHub.copilot",
+            "GitHub.remotehub",
+            "github.vscode-pull-request-github",
+        ]
+      }
+    },
+    "postCreateCommand": ".devcontainer/post-create.sh"
+  }
+  
